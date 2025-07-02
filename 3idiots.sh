@@ -7,7 +7,7 @@ Villian="Virus"
 
 echo "3idiots ka hero hai $hero"
 echo "3idiots ka villian hai $Villian"
-
+echo " we are learning GIT "
 # shell/environment variables (predefined variable)
 
 
